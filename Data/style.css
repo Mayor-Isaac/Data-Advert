@@ -1,0 +1,136 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.top-container{
+    font-size: 50px;
+}
+h1{
+    color: navy;
+    font-family: cursive;
+    margin: 0;
+}
+h3{
+    color: deepskyblue;
+    margin: 0;
+}
+.data-container{
+    font-weight: 400px;
+    font-size: 65px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#data{
+    width: 60px;
+    height: 60px;
+}
+.mtn{
+    background-color: yellow;
+    color: black;
+    margin: 25px 25px 25px 100px;
+    width: 40%;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.glo{
+    background-color: darkgreen;
+    color: white;
+    margin: 25px;
+    width: 40%;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.airtel{
+    background-color: red;
+    color: black;
+    margin: 25px 25px 25px 100px;
+    width: 40%;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.eti{
+    background-color: lawngreen;
+    color: red;
+    margin: 25px;
+    width: 40%;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+#mtn-b{
+    color: green;
+    margin-top: 20px;
+}
+#glo-b{
+    color: yellow;
+    margin-top: 20px;
+}
+#airtel-b{
+    color: green;
+    margin-top: 20px;
+}
+#eti-b{
+    color: white;
+    margin-top: 20px;
+}
+.airtime-container p{
+    margin: auto;
+    font-size: 50px;
+    width: 80%;
+    background-color: darkorange;
+    border-radius: 15px;
+}
+.buttom-container{
+    display: flex;
+}
+.bills{
+    font-size: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+}
+.dstv{
+    width: 50%;
+}
+.gotv{
+    width: 50%;
+}
+.stimes{
+    width: 50%;
+}
+.elect{
+    width: 50%;
+}
+#sub{
+    margin-top: 20px;
+    width: 60%;
+    height: 80px;
+}
+.contact{
+    color: red;
+    margin: auto;
+    font-size: 55px;
+    background-color: black;
+    width: 800px;
+    border-radius: 8px;
+}
+.account{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 45px;
+    width: 40%;
+    border-radius: 10px;
+    background-color: brown;
+    margin-top: 10px;
+}
+.napa{
+    display: flex;
+    flex-wrap: wrap;
+}
+#nepa{
+    width: 50%;
+}
